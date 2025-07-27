@@ -68,6 +68,7 @@
                 ['style', ['style']],
                 ['font', ['bold', 'italic', 'underline', 'clear']],
                 ['fontsize', ['fontsize']],
+                ['color', ['color']], // <-- this line enables font and background color
                 ['para', ['ul', 'ol', 'paragraph']],
                 ['insert', ['link', 'picture', 'table']],
                 ['view', ['fullscreen', 'codeview']]
